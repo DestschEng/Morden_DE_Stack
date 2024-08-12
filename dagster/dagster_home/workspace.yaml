@@ -1,0 +1,4 @@
+load_from:
+  - grpc_server:
+      host: etl_pipeline
+      port: 4000

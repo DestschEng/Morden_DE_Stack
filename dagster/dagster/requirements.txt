@@ -1,0 +1,8 @@
+dagster==1.7.2
+dagit==1.7.2
+dagster-postgres
+psycopg2-binary
+pydantic
+#dagster-webserver==1.7.10
+#pendulum==2.1.2 
+#structlog==24.2.0
